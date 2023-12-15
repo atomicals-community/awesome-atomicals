@@ -22,3 +22,8 @@
 - Atomical Market - https://atomicalsmarket.com
 - Bitatom - https://bitatom.io
 - SatsX Marketplace - https://satsx.io/marketplace
+
+## Videos 🎞️
+
+- Discussion with A from the Atomicals Protocol creators of ARC20 and Realm names all built on Bitcoin - https://www.youtube.com/watch?v=qMVP4QhxYXQ
+- Discussion with Arthur From Atomicals Protocol - https://www.youtube.com/watch?v=q-uksyn3a3o
