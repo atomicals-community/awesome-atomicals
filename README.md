@@ -15,6 +15,7 @@
 ## Wallets 👛
 
 - Atom Wallet - https://atomicalswallet.com
+- Wizz Wallet - https://wizzwallet.io
 
 ## Marketplaces 🏦
 
