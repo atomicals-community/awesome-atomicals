@@ -17,6 +17,19 @@
 - Atom Wallet - https://atomicalswallet.com
 - Wizz Wallet - https://wizzwallet.io
 
+## Endpoints 🔗
+
+- ✨ Official - https://ep.atomicals.xyz/proxy
+- Wizz Wallet - https://ep.atomicalswallet.com/proxy
+- Next Dao - https://ep.nextdao.xyz/proxy
+- Atomical Market - https://ep.atomicalmarket.com/proxy
+- Consync - https://ep.consync.xyz/proxy
+
+### Testnet
+
+- ✨ Official - https://eptestnet.atomicals.xyz/proxy
+- Wizz Wallet - https://eptest.atomicalswallet.com/proxy
+
 ## Marketplaces 🏦
 
 - Atomical Market - https://atomicalmarket.com
