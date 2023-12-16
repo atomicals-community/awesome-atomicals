@@ -4,6 +4,22 @@
 
 (✨ indicates official resources published by the Atomicals Protocol.)
 
+<details>
+<summary>Table of content</summary>
+
+<!-- TOC -->
+* [Awesome Atomicals ⚛️](#awesome-atomicals-)
+  * [Docs 📝](#docs-)
+  * [Tools 🔨](#tools-)
+  * [Wallets 👛](#wallets-)
+  * [Endpoints 🔗](#endpoints-)
+    * [Testnet](#testnet)
+  * [Marketplaces 🏦](#marketplaces-)
+  * [Videos 🎞️](#videos-)
+<!-- TOC -->
+
+</details>
+
 ## Docs 📝
 
 - ✨ Atomicals Guidebook - https://docs.atomicals.xyz/
