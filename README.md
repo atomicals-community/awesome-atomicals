@@ -19,7 +19,7 @@
 
 ## Marketplaces 🏦
 
-- Atomical Market - https://atomicalsmarket.com
+- Atomical Market - https://atomicalmarket.com
 - Bitatom - https://bitatom.io
 - SatsX Marketplace - https://satsx.io/marketplace
 
