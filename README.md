@@ -23,10 +23,12 @@
 ## Docs 📝
 
 - ✨ Atomicals Guidebook - https://docs.atomicals.xyz/
+- ✨ Atomicals Guidebook Repository - https://github.com/atomicals-community/atomicals-guide
 
 ## Tools 🔨
 
 - ✨ Atomicals CLI and Javascript Library - https://github.com/atomicals/atomicals-js
+- ✨ Genesis snapshot for ElectrumX at block 808080 - https://cdn.atomicals.xyz/snapshots/genesis/index.html
 
 ## Wallets 👛
 
