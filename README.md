@@ -53,6 +53,7 @@
 - Atomical Market - https://atomicalmarket.com
 - Bitatom - https://bitatom.io
 - SatsX Marketplace - https://satsx.io/marketplace
+- UniSat Marketplace - https://unisat.io/atomicals/market/arc20?tick=atom
 
 ## Videos 🎞️
 
