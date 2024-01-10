@@ -31,6 +31,7 @@
 - ✨ Genesis snapshot for ElectrumX at block 808080 - https://cdn.atomicals.xyz/snapshots/genesis/index.html
 - EleX Proxy - https://github.com/WizzWallet/elex-proxy
 - Atomicals GUI tool - https://github.com/wusimpl/atommical-js-tools
+- Atomicals mining manager - https://github.com/hack-ink/atomicalsir
 
 ## Wallets 👛
 
