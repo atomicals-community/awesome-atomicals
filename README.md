@@ -42,6 +42,7 @@
 - Next Dao - https://ep.nextdao.xyz/proxy
 - Atomical Market - https://ep.atomicalmarket.com/proxy
 - Consync - https://ep.consync.xyz/proxy
+- Neutron Labs - https://ep.atomicalneutron.com/proxy
 
 ### Testnet
 
