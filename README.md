@@ -45,6 +45,7 @@
 - Atomical Market - https://ep.atomicalmarket.com/proxy
 - Consync - https://ep.consync.xyz/proxy
 - Neutron Labs - https://ep.atomicalneutron.com/proxy
+- Bitverse - https://ep.bitverse.zone/proxy
 
 ### Testnet
 
